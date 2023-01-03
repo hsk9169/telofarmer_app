@@ -1,0 +1,222 @@
+[
+    {
+        "data": {
+            "humidity": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": "%"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "number": "92"
+                    }
+                ]
+            },
+            "number_of_sensor": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "number": "80"
+                    }
+                ]
+            },
+            "number_of_gateway": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "number": "1"
+                    }
+                ]
+            },
+            "number_of_failure_module": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "number": "20"
+                    }
+                ]
+            },
+            "weather": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "string",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "text": "clear"
+                    }
+                ]
+            },
+            "number_of_module": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "number": "20"
+                    }
+                ]
+            },
+            "wind_deg": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": "degree"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "number": "270"
+                    }
+                ]
+            },
+            "wind_gust": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "double",
+                    "unit": "m/sec"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "float": 0
+                    }
+                ]
+            },
+            "rain": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "double",
+                    "unit": "mm"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "float": 0
+                    }
+                ]
+            },
+            "number_of_failure_sensor": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "number": "80"
+                    }
+                ]
+            },
+            "number_of_failure_gateway": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "number": "1"
+                    }
+                ]
+            },
+            "temperature": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "double",
+                    "unit": "Celsius"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "float": 9.98
+                    }
+                ]
+            },
+            "pressure": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "int64",
+                    "unit": "hPa"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "number": "1011"
+                    }
+                ]
+            },
+            "wind_speed": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "double",
+                    "unit": "m/sec"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "float": 2.57
+                    }
+                ]
+            },
+            "cloudiness": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "double",
+                    "unit": "%"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "float": 0
+                    }
+                ]
+            },
+            "snow": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "double",
+                    "unit": "mm"
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "float": 0
+                    }
+                ]
+            },
+            "description": {
+                "descriptor": {
+                    "metric_kind": "gauge",
+                    "value_type": "string",
+                    "unit": ""
+                },
+                "metrics": [
+                    {
+                        "ts": "2023-01-02T07:17:40Z",
+                        "text": "clear sky"
+                    }
+                ]
+            }
+        },
+        "total_count": "17"
+    }
+]

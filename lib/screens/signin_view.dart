@@ -3,9 +3,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:telofarmer_app/services/apis/auth_service.dart';
-import 'package:telofarmer_app/models/api/models.dart';
+import 'package:telofarmer_app/models/auth/models.dart';
 import 'package:telofarmer_app/utils/crypto_rsa.dart';
 import 'package:telofarmer_app/providers/platform_provider.dart';
+import 'package:telofarmer_app/providers/session_provider.dart';
 import 'package:telofarmer_app/widgets/text_input.dart';
 import 'package:telofarmer_app/widgets/bright_button.dart';
 import 'package:telofarmer_app/widgets/dark_button.dart';
@@ -22,7 +23,7 @@ class _SignInView extends State<SignInView> {
   // service classes
   final _apiAuthService = AuthService();
   late CryptoRSA _cryptoRSA;
-  late dynamic _platformProvider;
+  late dynamic _sessionProvider;
 
   // controllers
   late TextEditingController _userNameController;
@@ -41,7 +42,7 @@ class _SignInView extends State<SignInView> {
     _initControllers();
     _initData();
     WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
-      _platformProvider = Provider.of<Platform>(context, listen: false);
+      _sessionProvider = Provider.of<Session>(context, listen: false);
     });
   }
 
@@ -80,8 +81,10 @@ class _SignInView extends State<SignInView> {
       if (authEntity.runtimeType == String) {
         print('Error');
       } else {
-        _platformProvider.authEntity = authEntity;
-        Navigator.pushNamed(context, Routes.SIGNUP);
+        _sessionProvider.authEntity = authEntity;
+        Navigator.pushNamedAndRemoveUntil(
+            context, Routes.SERVICE, (Route<dynamic> route) => false,
+            arguments: 0);
       }
     });
   }

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:telofarmer_app/consts/colors.dart';
 import 'package:telofarmer_app/routes.dart';
 import 'package:telofarmer_app/screens/screens.dart';
 
@@ -16,7 +17,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
       navigatorObservers: [routeObserver],
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: AppColors.mainMaterialColor,
         scaffoldBackgroundColor: Colors.white,
         bottomSheetTheme:
             BottomSheetThemeData(backgroundColor: Colors.black.withOpacity(0)),
@@ -24,8 +25,16 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
       routes: {
         Routes.SIGNIN: (context) => SignInView(),
         Routes.SIGNUP: (context) => SignUpView(),
+        Routes.SERVICE: (context) =>
+            ServiceView(ModalRoute.of(context)!.settings.arguments as int),
       },
       initialRoute: Routes.SIGNIN,
     );
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
   }
 }

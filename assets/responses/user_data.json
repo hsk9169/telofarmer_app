@@ -1,0 +1,37 @@
+{
+    "user": {
+        "id": "15",
+        "email": "hsk9169@gmail.com",
+        "name": "김한수",
+        "authority": {
+            "type_id": "root",
+            "type_display_name": "Superuser"
+        },
+        "phoneNumber": {
+            "shortCode": {
+                "regionCode": "KR",
+                "number": "010-4561-9502"
+            },
+            "extension": "+821045619502"
+        },
+        "organization": "TF",
+        "type_id": "corporation",
+        "type_display_name": "Corporation",
+        "lastAccessIp": "172.31.40.190:50816",
+        "lastAccessTime": "2023-01-03T05:48:56.798697Z"
+    },
+    "created": {
+        "userId": "1",
+        "username": "Administrator",
+        "ts": "2022-12-13T07:56:19.248355Z"
+    },
+    "lastModified": {
+        "userId": "15",
+        "username": "김한수",
+        "ts": "2022-12-15T07:37:44.765917Z"
+    },
+    "Attributes": {
+        "etc": "",
+        "customer_type": "corporation"
+    }
+}

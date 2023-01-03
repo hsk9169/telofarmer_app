@@ -1,0 +1,1220 @@
+{
+    "entities": [
+        {
+            "site": {
+                "id": "22_USA_TelofarmUSA",
+                "displayName": "미국 사무실",
+                "project": "",
+                "typeId": "indoor",
+                "typeDisplayName": "Indoor",
+                "countrycode": "US",
+                "zipcode": "94954",
+                "address1": "1341 Redwood Way, Petaluma, CA 94954 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 38.276013000000013,
+                    "longitude": -122.6662557,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-29T06:25:30.439233Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-29T06:25:30.439233Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Wild Acres",
+                "displayName": "Wild Acres",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "92084",
+                "address1": "1629 Wild Acres Rd, Vista, CA 92084 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 33.2563765,
+                    "longitude": -117.1643647,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:58:13.763554Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-08T00:53:06.773662Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_KR_YangYanggreenHouse",
+                "displayName": "양양군 온실",
+                "project": "",
+                "typeId": "house",
+                "typeDisplayName": "Greenhouse",
+                "countrycode": "KR",
+                "zipcode": "215-820",
+                "address1": "대한민국 강원도 양양군 손양면 동해대로 2558",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 38.0750765,
+                    "longitude": 128.6339979,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-08T00:18:39.962713Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-08T00:26:02.346022Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_KR_YangyangNamdaecheon",
+                "displayName": "양양 남대천",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "215-800",
+                "address1": "4J4V+VC 대한민국 강원도 양양군",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 38.1072222,
+                    "longitude": 128.6436111,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2022-02-08T10:05:31.938217Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-08T00:30:42.541177Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Pinot Ranch",
+                "displayName": "Pinot Ranch",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95466",
+                "address1": "3280 Clark Rd, Philo, CA 95466 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.1224775,
+                    "longitude": -123.5202205,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T06:01:38.408680Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T06:02:23.741565Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Kelly Vineyard",
+                "displayName": "Kelly Vineyard",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "94559",
+                "address1": "351 2nd St, Napa, CA 94559 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 38.3014997,
+                    "longitude": -122.2769868,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T06:04:57.040410Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T06:04:57.040410Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Roederer Estate",
+                "displayName": "Roederer Estate",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95466",
+                "address1": "4400 CA-128, Philo, CA 95466 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.107445299999988,
+                    "longitude": -123.5018814,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:59:58.775285Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:59:58.775285Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Black Shire Almonds",
+                "displayName": "Black Shire Almonds",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95912",
+                "address1": "6055 Hillgate Rd, Arbuckle, CA 95912 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.0178868,
+                    "longitude": -122.1308975,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:59:01.374527Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T08:04:15.545622Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Empire Nut",
+                "displayName": "Empire Nut",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95932",
+                "address1": "7229 Moon Bend Rd, Colusa, CA 95932 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.1966148,
+                    "longitude": -121.9955619,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:56:14.290335Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T08:03:35.146851Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Handley Cellars",
+                "displayName": "Handley Cellars",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95466",
+                "address1": "4F9M+QP 미국 캘리포니아 라일리 헤이츠",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.1194776,
+                    "longitude": -123.5156796,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:54:57.607315Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T08:02:26.848079Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Domain Anderson",
+                "displayName": "Domain Anderson",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95466",
+                "address1": "9201 CA-128, Philo, CA 95466 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.058855,
+                    "longitude": -123.429753,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:50:55.239169Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T08:01:20.787407Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Ranch 37",
+                "displayName": "Ranch 37",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "RU",
+                "zipcode": "675522",
+                "address1": "JG9H+J4 Gryaznushka, Amur Oblast, 러시아",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 50.6190455,
+                    "longitude": 127.5278276,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:49:05.361983Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:49:05.361983Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Favero Vineyard",
+                "displayName": "Favero Vineyard",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95476",
+                "address1": "3904 Lovall Valley Rd, Sonoma, CA 95476 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 38.3014069,
+                    "longitude": -122.4035112,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:44:26.486740Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T08:12:23.647708Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_KR_Jeonju National Institute",
+                "displayName": "전주 국립원예특작과학원",
+                "project": "",
+                "typeId": "farm",
+                "typeDisplayName": "Farm",
+                "countrycode": "KR",
+                "zipcode": "565-852",
+                "address1": "대한민국 전라북도 완주군 이서면 반교리 산132-6",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 35.8341986,
+                    "longitude": 127.031899,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-04-11T00:37:15.144496Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-04-11T01:22:22.152153Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_KR_Gwanakhouse",
+                "displayName": "관악농장",
+                "project": "",
+                "typeId": "house",
+                "typeDisplayName": "Greenhouse",
+                "countrycode": "KR",
+                "zipcode": "151-050",
+                "address1": "대한민국 서울특별시 관악구 낙성대동 262-3",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.4710378,
+                    "longitude": 126.9579279,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-03-15T00:40:27.996654Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-06-23T02:01:34.770797Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "20_NZ_26_Seasons",
+                "displayName": "뉴질랜드 26 Seasons",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "NZ",
+                "zipcode": "6011",
+                "address1": "115 Tory Street, Te Aro, Wellington 6011 뉴질랜드",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": -41.2959568,
+                    "longitude": 174.7797461,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-10-12T05:34:59.504924Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-10-12T05:38:21.173020Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_US_ Marijuana",
+                "displayName": "미국 마리화나",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95466",
+                "address1": "4GM8+2J 미국 캘리포니아 나바로",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.1325917,
+                    "longitude": -123.4834132,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-10-06T07:18:53.961859Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2022-02-14T06:40:58.973939Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "callback-test",
+                "displayName": "미국 모듈",
+                "project": "",
+                "typeId": "indoor",
+                "typeDisplayName": "Indoor",
+                "countrycode": "KR",
+                "zipcode": "137-131",
+                "address1": "대한민국 서울특별시 서초구 중앙로 551",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.4577431,
+                    "longitude": 127.0111638,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-12-17T04:28:06.501397Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2022-03-03T03:14:08.509230Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "22_USA_Phoniex Phyre",
+                "displayName": "Phoniex Phyre",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "US",
+                "zipcode": "95466",
+                "address1": "3400 Chardonnay Ln, Philo, CA 95466 미국",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 39.127684,
+                    "longitude": -123.5181507,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:53:54.839514Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-12-07T05:53:54.839514Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_JARES_Fruit",
+                "displayName": "국내 해남 신길호 박사",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "536-820",
+                "address1": "대한민국 전라남도 해남군 옥천면 용정리길 20",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 34.5811775,
+                    "longitude": 126.6500299,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-19T06:50:31.014804Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-19T06:55:50.610903Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_RDA",
+                "displayName": "국내 전주 화분센서 이평호박사",
+                "project": "",
+                "typeId": "house",
+                "typeDisplayName": "Greenhouse",
+                "countrycode": "KR",
+                "zipcode": "561-160",
+                "address1": "대한민국 전라북도 전주시 덕진구 진북동 416-12",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 35.8293594,
+                    "longitude": 127.1345616,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-19T06:49:50.591282Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-04-11T01:22:02.429479Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_GBA",
+                "displayName": "국내 경북농기원 최지혜 박사",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "702-320",
+                "address1": "대한민국 대구광역시 북구 동호동 칠곡중앙대로136길 47",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 35.9576016,
+                    "longitude": 128.5613511,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-19T06:48:09.630876Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-19T06:54:59.020105Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_JARES",
+                "displayName": "국내 나주전남농기원 김희곤박사",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "520-840",
+                "address1": "대한민국 전라남도 나주시 산포면 세남로 1508",
+                "address2": "전라남도농업기술원",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 35.022478,
+                    "longitude": 126.8317176,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-19T06:41:01.242542Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-19T06:54:37.969213Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "20_KR_Yongsan",
+                "displayName": "용산구 보호수",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "140-026",
+                "address1": "대한민국 서울특별시 서빙고동 서울특별시 용산구 서빙고로 137 (용산동6가) 전통염료식물원",
+                "address2": "",
+                "owners": [
+                    {
+                        "id": "9",
+                        "email": "subin823@telofarm.com",
+                        "name": "김수빈",
+                        "organization": "telofarm",
+                        "type_id": "",
+                        "type_display_name": "",
+                        "lastAccessIp": ""
+                    }
+                ],
+                "users": [],
+                "location": {
+                    "latitude": 37.5244092,
+                    "longitude": 126.9816053,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-26T08:08:30.678228Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-18T06:16:43.758084Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_Telofarm",
+                "displayName": "Telofarm",
+                "project": "",
+                "typeId": "garden",
+                "typeDisplayName": "Garden",
+                "countrycode": "KR",
+                "zipcode": "137-131",
+                "address1": "대한민국 서울특별시 서초구 우면동 610-13",
+                "address2": "",
+                "owners": [
+                    {
+                        "id": "3",
+                        "email": "asbawi@suredatalab.com",
+                        "name": "S. Choi",
+                        "organization": "suredatalab",
+                        "type_id": "",
+                        "type_display_name": "",
+                        "lastAccessIp": ""
+                    }
+                ],
+                "users": [],
+                "location": {
+                    "latitude": 37.4578377,
+                    "longitude": 127.0126305,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-19T10:50:30.583099Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-10-26T02:51:53.107442Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "Grapeyard",
+                "displayName": "내곡동 포도밭",
+                "project": "포도밭",
+                "typeId": "farm",
+                "typeDisplayName": "Farm",
+                "countrycode": "KR",
+                "zipcode": "137-180",
+                "address1": "대한민국 서울특별시 서초구 내곡동 1-489",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.4521111,
+                    "longitude": 127.0754155,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-08-11T07:27:44.140655Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-03-16T22:06:13.197112Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_Samsung_APT_SEOCHO_Rae",
+                "displayName": "서울 서초구 반포 래미안 퍼스티지",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "137-042",
+                "address1": "대한민국 서울특별시 서초구 반포동 반포대로 275",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.5027777,
+                    "longitude": 126.9983054,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-26T05:03:15.685934Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2022-03-03T03:12:12.007146Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_Samsung_APT_SIHEUNG",
+                "displayName": "시흥능곡역모아미래도에듀포레&장현호반써밋",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "429-240",
+                "address1": "대한민국 경기도 시흥시 능곡동 747",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.3687227,
+                    "longitude": 126.8116302,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-27T04:12:01.088373Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2022-03-03T03:12:38.319135Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_Yangyang_Sports",
+                "displayName": "양양 레저스포츠센터",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "215-800",
+                "address1": "대한민국 강원도 양양군 양양읍 조산리 95-45",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 38.0953199,
+                    "longitude": 128.6396212,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-26T08:47:17.509745Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2022-02-08T10:08:33.208340Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "19_AE_ADAFSA",
+                "displayName": "UAE",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "AE",
+                "zipcode": "",
+                "address1": "18th - Central District - Abu Dhabi - 아랍에미리트",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 24.2160317,
+                    "longitude": 55.7958417,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-26T07:41:09.817790Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2022-02-14T06:44:13.852868Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_Yangyang_Choi",
+                "displayName": "양양 최실장님 블루베리 하우스",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "215-850",
+                "address1": "대한민국 강원도 양양군 강현면 물갑리 347",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 38.1209543,
+                    "longitude": 128.5642189,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-23T01:11:06.465911Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-23T06:54:18.294511Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "suredatalab",
+                "displayName": "SDL",
+                "project": "samplr",
+                "typeId": "indoor",
+                "typeDisplayName": "Indoor",
+                "countrycode": "KR",
+                "zipcode": "305-380",
+                "address1": "대한민국 대전광역시 유성구 문지동 산25-7",
+                "address2": "벤처기업육성센터 207호",
+                "owners": [
+                    {
+                        "id": "3",
+                        "email": "asbawi@suredatalab.com",
+                        "name": "S. Choi",
+                        "organization": "suredatalab",
+                        "type_id": "",
+                        "type_display_name": "",
+                        "lastAccessIp": ""
+                    }
+                ],
+                "users": [],
+                "location": {
+                    "latitude": 36.3907,
+                    "longitude": 127.3954358,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-06-28T08:11:14.881726Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-06-23T02:01:17.667132Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "20_KR_Pyeonteak_EX",
+                "displayName": "Pyeonteak EX",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "451-830",
+                "address1": "대한민국 경기도 평택시 청북면 현곡리 산39-7",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.0466328,
+                    "longitude": 126.9457096,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-19T10:53:59.055400Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-20T03:34:55.350228Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_IN_PALM",
+                "displayName": "인도네시아 팜야자",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "ID",
+                "zipcode": "",
+                "address1": "6W6C+7GP, Sei Pinang, Mandau Talawang, Kapuas Regency, Central Kalimantan, 인도네시아",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": -0.7892751,
+                    "longitude": 113.921327,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-06-23T07:05:32.680512Z"
+                },
+                "lastModified": {
+                    "userId": "11",
+                    "username": "이진석",
+                    "ts": "2022-06-23T07:08:18.162820Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "20_NZ_Plant_FoodResearch",
+                "displayName": "뉴질랜드 최종현 박사 키위 연구",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "NZ",
+                "zipcode": "3214",
+                "address1": "Unnamed Road, Waikato 3214 뉴질랜드",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": -37.7747092,
+                    "longitude": 175.3137185,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-28T01:37:53.497996Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-28T01:38:40.487464Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "19_KR_AnyangCC",
+                "displayName": "안양골프장",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "435-011",
+                "address1": "대한민국 경기도 군포시 군포1동 791-3",
+                "address2": "안양컨트리클럽",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.3386654,
+                    "longitude": 126.9444467,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-23T12:39:53.830092Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-23T12:46:29.591281Z"
+                }
+            }
+        },
+        {
+            "site": {
+                "id": "21_KR_Samsung_NURSERY",
+                "displayName": "용인 묘포장 환경변화 실험",
+                "project": "",
+                "typeId": "outdoor",
+                "typeDisplayName": "Outdoor cultivation",
+                "countrycode": "KR",
+                "zipcode": "449-810",
+                "address1": "대한민국 경기도 용인시 처인구 포곡읍 곡현로 76",
+                "address2": "",
+                "owners": [],
+                "users": [],
+                "location": {
+                    "latitude": 37.2907664,
+                    "longitude": 127.2228655,
+                    "altitude": 0
+                },
+                "group_id": "",
+                "state": "normal",
+                "created": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-23T07:35:53.927586Z"
+                },
+                "lastModified": {
+                    "userId": "1",
+                    "username": "Administrator",
+                    "ts": "2021-07-23T07:44:45.036959Z"
+                }
+            }
+        }
+    ],
+    "totalCount": "37",
+    "nextQuery": ""
+}

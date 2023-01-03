@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:io';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:telofarmer_app/models/api/models.dart';
+import 'package:telofarmer_app/models/auth/models.dart';
 import 'package:telofarmer_app/utils/http_parser.dart';
 
 class AuthService {

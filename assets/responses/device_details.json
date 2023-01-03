@@ -1,0 +1,202 @@
+{
+    "device": {
+        "id": "LW140C5BFFFF160CE5",
+        "productId": "PLS410-SOIL",
+        "productDisplayName": "PLS410-SOIL",
+        "typeId": "module",
+        "typeDisplayName": "Module",
+        "serialNumber": "",
+        "firmwareVersion": "",
+        "channel": 0,
+        "siteId": "22_USA_Wild Acres",
+        "siteDisplayName": "Wild Acres",
+        "state": "failed",
+        "constants": {},
+        "created": {
+            "userId": "1",
+            "username": "Administrator",
+            "ts": "2022-02-08T15:11:31.786948Z"
+        },
+        "lastModified": {
+            "userId": "1",
+            "username": "Administrator",
+            "ts": "2022-02-08T15:11:31.786948Z"
+        },
+        "inbound_datetime": "2022-02-08T15:11:31.786948Z",
+        "recent_activated_datetime": "2022-07-22T01:08:48.399585Z"
+    },
+    "description": "",
+    "parent": {
+        "id": "PL-GW-41002A",
+        "productId": "plg400",
+        "productDisplayName": "USN용 무선기기",
+        "typeId": "gateway",
+        "typeDisplayName": "Gateway",
+        "serialNumber": "140C5BFFFF41002A",
+        "firmwareVersion": "",
+        "channel": 0,
+        "siteId": "22_USA_Black Shire Almonds",
+        "siteDisplayName": "Black Shire Almonds",
+        "state": "running",
+        "constants": {},
+        "created": {
+            "userId": "1",
+            "username": "Administrator",
+            "ts": "2022-01-27T09:58:27.087927Z"
+        },
+        "lastModified": {
+            "userId": "1",
+            "username": "Administrator",
+            "ts": "2022-01-27T09:58:27.087927Z"
+        },
+        "inbound_datetime": "2022-01-27T09:58:27.087927Z",
+        "recent_activated_datetime": "2023-01-03T05:51:15.139377Z"
+    },
+    "children": [
+        {
+            "id": "LW140C5BFFFF160CE5_1",
+            "productId": "soil-sensor",
+            "productDisplayName": "Soil sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "serialNumber": "",
+            "firmwareVersion": "",
+            "channel": 1,
+            "siteId": "22_USA_Wild Acres",
+            "siteDisplayName": "Wild Acres",
+            "state": "failed",
+            "constants": {
+                "Min": 0,
+                "A": 10036794,
+                "B": 7785443,
+                "C": 0,
+                "D/TM": 0,
+                "E": 0,
+                "Max": 15540000
+            },
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "inbound_datetime": "2022-02-08T15:11:31.786948Z",
+            "recent_activated_datetime": "2022-07-22T01:08:48.399585Z"
+        },
+        {
+            "id": "LW140C5BFFFF160CE5_2",
+            "productId": "soil-sensor",
+            "productDisplayName": "Soil sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "serialNumber": "",
+            "firmwareVersion": "",
+            "channel": 2,
+            "siteId": "22_USA_Wild Acres",
+            "siteDisplayName": "Wild Acres",
+            "state": "failed",
+            "constants": {
+                "B": 7666702,
+                "C": 0,
+                "D/TM": 0,
+                "E": 0,
+                "Max": 15540000,
+                "Min": 0,
+                "A": 10342401
+            },
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "inbound_datetime": "2022-02-08T15:11:31.786948Z",
+            "recent_activated_datetime": "2022-07-22T01:08:48.399585Z"
+        },
+        {
+            "id": "LW140C5BFFFF160CE5_3",
+            "productId": "soil-sensor",
+            "productDisplayName": "Soil sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "serialNumber": "",
+            "firmwareVersion": "",
+            "channel": 3,
+            "siteId": "22_USA_Wild Acres",
+            "siteDisplayName": "Wild Acres",
+            "state": "failed",
+            "constants": {
+                "A": 10815763,
+                "B": 8297882,
+                "C": 0,
+                "D/TM": 0,
+                "E": 0,
+                "Max": 15540000,
+                "Min": 0
+            },
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "inbound_datetime": "2022-02-08T15:11:31.786948Z",
+            "recent_activated_datetime": "2022-07-22T01:08:48.399585Z"
+        },
+        {
+            "id": "LW140C5BFFFF160CE5_4",
+            "productId": "soil-sensor",
+            "productDisplayName": "Soil sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "serialNumber": "",
+            "firmwareVersion": "",
+            "channel": 4,
+            "siteId": "22_USA_Wild Acres",
+            "siteDisplayName": "Wild Acres",
+            "state": "failed",
+            "constants": {
+                "E": 0,
+                "Max": 15540000,
+                "Min": 0,
+                "A": 11003596,
+                "B": 8305935,
+                "C": 0,
+                "D/TM": 0
+            },
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2022-02-08T15:11:31.786948Z"
+            },
+            "inbound_datetime": "2022-02-08T15:11:31.786948Z",
+            "recent_activated_datetime": "2022-07-22T01:08:48.399585Z"
+        }
+    ],
+    "histories": [
+        {
+            "userId": "1",
+            "username": "Administrator",
+            "code": "Add Device",
+            "description": "Add Device",
+            "ts": "2022-02-08T15:11:31.786948Z"
+        }
+    ]
+}

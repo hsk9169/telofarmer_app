@@ -1,0 +1,33 @@
+{
+    "name": "sites/22_USA_Wild Acres",
+    "histories": [
+        {
+            "userId": "11",
+            "username": "이진석",
+            "code": "Add Site",
+            "description": "Add Site",
+            "ts": "2022-12-07T05:58:13.763554Z"
+        },
+        {
+            "userId": "11",
+            "username": "이진석",
+            "code": "Assign Device",
+            "description": "Assign Device",
+            "ts": "2022-12-07T08:05:29.037433Z"
+        },
+        {
+            "userId": "11",
+            "username": "이진석",
+            "code": "Modify Site",
+            "description": "asd",
+            "ts": "2022-12-08T00:53:06.716788Z"
+        },
+        {
+            "userId": "11",
+            "username": "이진석",
+            "code": "Unassign User",
+            "description": "Unassign User",
+            "ts": "2022-12-08T00:53:06.773662Z"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "products": [
+        {
+            "id": "plg400",
+            "displayName": "USN용 무선기기",
+            "typeId": "gateway",
+            "typeDisplayName": "Gateway",
+            "algorithmId": "",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            }
+        },
+        {
+            "id": "sample-module",
+            "displayName": "PLS100",
+            "typeId": "module",
+            "typeDisplayName": "Module",
+            "algorithmId": "",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            }
+        },
+        {
+            "id": "pls100-soil",
+            "displayName": "PLS100 Soil",
+            "typeId": "module",
+            "typeDisplayName": "Module",
+            "algorithmId": "",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            }
+        },
+        {
+            "id": "PLS400-SF",
+            "displayName": "PLS400-SF",
+            "typeId": "module",
+            "typeDisplayName": "Module",
+            "algorithmId": "sapflow",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-07-01T08:57:12.868006Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-07-19T10:29:10.705573Z"
+            }
+        },
+        {
+            "id": "PLS410-SOIL",
+            "displayName": "PLS410-SOIL",
+            "typeId": "module",
+            "typeDisplayName": "Module",
+            "algorithmId": "soil4ch",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-07-01T09:04:00.585659Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-07-19T10:31:40.868300Z"
+            }
+        },
+        {
+            "id": "pls100-sf",
+            "displayName": "PLS100 SAP-flow",
+            "typeId": "module",
+            "typeDisplayName": "Module",
+            "algorithmId": "sapflow",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-28T09:31:15.082305Z"
+            }
+        },
+        {
+            "id": "sf-sensor",
+            "displayName": "SAP-flow sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "algorithmId": "",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            }
+        },
+        {
+            "id": "sample-humidity",
+            "displayName": "Humidity sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "algorithmId": "",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            }
+        },
+        {
+            "id": "soil-sensor",
+            "displayName": "Soil sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "algorithmId": "",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            }
+        },
+        {
+            "id": "sample-temperature",
+            "displayName": "Temperature sensor",
+            "typeId": "sensor",
+            "typeDisplayName": "Sensor",
+            "algorithmId": "",
+            "created": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            },
+            "lastModified": {
+                "userId": "1",
+                "username": "Administrator",
+                "ts": "2021-06-27T13:29:31.318209Z"
+            }
+        }
+    ],
+    "totalCount": "10",
+    "nextQuery": ""
+}

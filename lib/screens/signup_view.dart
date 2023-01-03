@@ -3,9 +3,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:telofarmer_app/services/apis/auth_service.dart';
-import 'package:telofarmer_app/models/api/models.dart';
+import 'package:telofarmer_app/models/auth/models.dart';
 import 'package:telofarmer_app/utils/crypto_rsa.dart';
-import 'package:telofarmer_app/providers/platform_provider.dart';
+import 'package:telofarmer_app/providers/session_provider.dart';
 import 'package:telofarmer_app/consts/sizes.dart';
 import 'package:telofarmer_app/consts/colors.dart';
 import 'package:telofarmer_app/routes.dart';
@@ -45,8 +45,8 @@ class _SignUpView extends State<SignUpView> {
     _initControllers();
     _initData();
     WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
-      final provider = Provider.of<Platform>(context, listen: false);
-      print(provider.authEntity.toJson());
+      final sessionProvider = Provider.of<Session>(context, listen: false);
+      print(sessionProvider.authEntity.toJson());
     });
   }
 

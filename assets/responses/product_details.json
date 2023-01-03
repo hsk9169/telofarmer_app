@@ -1,0 +1,56 @@
+{
+    "product": {
+        "id": "pls100-soil",
+        "displayName": "PLS100 Soil",
+        "typeId": "module",
+        "typeDisplayName": "Module",
+        "algorithmId": "",
+        "created": {
+            "userId": "1",
+            "username": "Administrator",
+            "ts": "2021-06-27T13:29:31.318209Z"
+        },
+        "lastModified": {
+            "userId": "1",
+            "username": "Administrator",
+            "ts": "2021-06-27T13:29:31.318209Z"
+        }
+    },
+    "algorithm": "",
+    "description": "Sample product",
+    "childable": [
+        {
+            "product_id": "soil-sensor",
+            "display_name": "Soil sensor",
+            "channel": 1,
+            "attributes": {
+                "soil0Ch1": "soil"
+            }
+        },
+        {
+            "product_id": "soil-sensor",
+            "display_name": "Soil sensor",
+            "channel": 2,
+            "attributes": {
+                "soil0Ch2": "soil"
+            }
+        },
+        {
+            "product_id": "soil-sensor",
+            "display_name": "Soil sensor",
+            "channel": 3,
+            "attributes": {
+                "soil0Ch3": "soil"
+            }
+        },
+        {
+            "product_id": "soil-sensor",
+            "display_name": "Soil sensor",
+            "channel": 4,
+            "attributes": {
+                "soil0Ch4": "soil"
+            }
+        }
+    ],
+    "histories": []
+}
